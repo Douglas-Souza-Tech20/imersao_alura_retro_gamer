@@ -1,5 +1,5 @@
 ## 🎮 Demo
-Clique aqui: [Retro Search - Demo]
+Clique aqui: [[Retro Search - Demo]](https://github.com/Douglas-Souza-Tech20/imersao_alura_retro_gamer)
 
 # Retro Search
 
@@ -18,7 +18,7 @@ Este projeto foi desenvolvido usando apenas:
 ## 🛠️ Como Executar Localmente
 
 1. Clone o repositório:
-   git clone https://github.com
+   git clone [https://github.com](https://github.com/Douglas-Souza-Tech20/imersao_alura_retro_gamer)
 
 2. Navegue até o diretório do projeto:
    cd retro-search
